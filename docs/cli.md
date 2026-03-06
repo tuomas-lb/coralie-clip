@@ -196,3 +196,7 @@ If you are an AI agent working on this repository:
 - You MUST keep this documentation up to date with any behavior changes.
 - You MUST update command examples when CLI changes are made.
 
+
+
+
+
